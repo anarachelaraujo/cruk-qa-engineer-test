@@ -4,8 +4,8 @@
   "description": "cruk technical exercise",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "npx cypress open",
-    "cypress:run": "npx cypress run"
+    "cypress:open": "yarn cypress open",
+    "cypress:run": "yarn cypress run"
   },
   "author": "",
   "license": "ISC",
