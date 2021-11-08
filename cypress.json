@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://app.pws.int.cruk.org/support-us/your-donation",
+    "video": false,
+    "integrationFolder": "cypress",
+    "numTestsKeptInMemory": 50,
+    "viewportWidth": 1680,
+    "viewportHeight": 1050,
+    "defaultCommandTimeout": 20000,
+    "testFiles": "**/*.spec.ts",
+    "chromeWebSecurity": false
+}
