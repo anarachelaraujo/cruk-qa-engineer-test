@@ -33,13 +33,6 @@ Cypress.Commands.add('typeOnIframe', (iframeComponent, iframeInput, inputValue) 
     .type(inputValue);
 });
 
-Cypress.Commands.add('getDataFromJson', (file, data) => {
-    cy.fixture(file).its(data).then((response) => {
-        var value = JSON.stringify(response);
-        return value.toString();
-    });
-});
-
 Cypress.Commands.add('accessPage', (url) => {
     cy.clearCookies();
     cy.setCookie('OptanonAlertBoxClosed', new Date().toISOString());

@@ -1,15 +1,15 @@
 import { CompletionTriggerKind } from "typescript"
 
-const PAYMENT_RADIO_GROUP = '#paymentRadioGroup span'
-const CREDIT_CARD_HOLDER_NAME = '#cardholderName'
-const CREDIT_CARD_NUMBER = '#braintree-hosted-field-number'
-const CREDIT_CARD_EXPIRY_DATE = '#braintree-hosted-field-expirationDate'
-const CREDIT_CARD_SECURITY_CODE = '#braintree-hosted-field-cvv'
-const CREDIT_CARD_NUMBER_FIELD = '#credit-card-number'
-const CREDIT_CARD_EXPIRY_DATE_FIELD = '#expiration'
-const CREDIT_CARD_SECURITY_CODE_FIELD = '#cvv' 
-const GIFT_AID = '[for=giftAid1]'
-const COMPLETE_MY_DONATION_BUTTON ='[type=submit]'
+const PAYMENT_RADIO_GROUP = '#paymentRadioGroup span';
+const CREDIT_CARD_HOLDER_NAME = '#cardholderName';
+const CREDIT_CARD_NUMBER = '#braintree-hosted-field-number';
+const CREDIT_CARD_EXPIRY_DATE = '#braintree-hosted-field-expirationDate';
+const CREDIT_CARD_SECURITY_CODE = '#braintree-hosted-field-cvv';
+const CREDIT_CARD_NUMBER_FIELD = '#credit-card-number';
+const CREDIT_CARD_EXPIRY_DATE_FIELD = '#expiration';
+const CREDIT_CARD_SECURITY_CODE_FIELD = '#cvv';
+const GIFT_AID = '[for=giftAid1]';
+const COMPLETE_MY_DONATION_BUTTON ='[type=submit]';
 
 
 class PaymentPage {

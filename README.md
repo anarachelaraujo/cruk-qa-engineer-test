@@ -51,4 +51,4 @@ You need to have git already installed.
 
 ## Test Development 
 
-The exercise was develop with the most recent version of Cypress with TypeScript. The architecture is based on Page Object Model. 
+The exercise was develop with the most recent version of Cypress and TypeScript. The architecture is based on Page Object Model. 

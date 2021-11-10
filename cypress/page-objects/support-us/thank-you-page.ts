@@ -1,6 +1,5 @@
-const THANK_YOU_MESSAGE = 'h2'
-const REFERENCE_NUMBER_MESSAGE = 'strong'
-const API_TRANSACTION = ''
+const THANK_YOU_MESSAGE = 'h2';
+const REFERENCE_NUMBER_MESSAGE = 'strong';
 
 class ThankYouPage {
     //GET

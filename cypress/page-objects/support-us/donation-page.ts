@@ -1,11 +1,11 @@
 
-    const AMOUNT_10_BUTTON = 'amount-sel-10'
-    const DONATION_TYPE_RADIO = '#typeRadioGroup span '
-    const MOTIVATION_DROPDOWN = 'label select'
-    const DEDICATION_NAME = '#inMemoryName'
-    const SPECIFIC_TYPE_OF_CANCER_RADIO = '#destinationRadioGroup span'
-    const SELECT_DROPDOWN = 'select'
-    const CONTINUE_BUTTON = '[type=submit]'
+    const AMOUNT_10_BUTTON = 'amount-sel-10';
+    const DONATION_TYPE_RADIO = '#typeRadioGroup span ';
+    const MOTIVATION_DROPDOWN = 'label select';
+    const DEDICATION_NAME = '#inMemoryName';
+    const SPECIFIC_TYPE_OF_CANCER_RADIO = '#destinationRadioGroup span';
+    const SELECT_DROPDOWN = 'select';
+    const CONTINUE_BUTTON = '[type=submit]';
 
 class DonationPage {
     //GET

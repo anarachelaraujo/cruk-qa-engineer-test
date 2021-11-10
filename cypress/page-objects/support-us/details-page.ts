@@ -1,13 +1,13 @@
 
-const FIRST_NAME = '#forename'
-const LAST_NAME = '#surname'
-const EMAIL_ADDRESS = '#emailAddress'
-const PHONE_NUMBER = '#phoneNumber'
-const POSTAL_CODE = '#postalCode'
-const BUTTON = 'button'
-const ADDRESS_SELECTION = '#addressSelection'
-const CONTINUE_BUTTON = '[type=submit]'
-const COUNTRY_FIELD = '#country'
+const FIRST_NAME = '#forename';
+const LAST_NAME = '#surname';
+const EMAIL_ADDRESS = '#emailAddress';
+const PHONE_NUMBER = '#phoneNumber';
+const POSTAL_CODE = '#postalCode';
+const BUTTON = 'button';
+const ADDRESS_SELECTION = '#addressSelection';
+const CONTINUE_BUTTON = '[type=submit]';
+const COUNTRY_FIELD = '#country';
 
 class DetailsPage {
 
